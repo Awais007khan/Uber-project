@@ -42,8 +42,7 @@ This is a mobile application project replicating Uber's ride-booking features, b
 
 ## 🔗 GitHub Repository
 
-> \*_[👉 Click here to visit the GitHub repo](https://github.com/Awais007khan/Uber-project
-> _(Replace this link with your actual GitHub repo)\*
+> \*_[👉 Click here to visit the GitHub repo](https://github.com/Awais007khan/Uber-project > _(Replace this link with your actual GitHub repo)\*
 
 ---
 
@@ -57,6 +56,6 @@ This is a mobile application project replicating Uber's ride-booking features, b
 
 ## 📩 Contact
 
-> Created & maintained by **Awais Khan**  
-> 📧 [your-email@example.com]  
+> Created & maintained by **Muhammad Awais Khan**  
+> 📧 [itsawaisniazi@gmail.com]  
 > 📱 Software Engineer
